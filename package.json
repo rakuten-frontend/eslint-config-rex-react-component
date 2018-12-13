@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-rex-react-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common eslint config for ReX React Component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
