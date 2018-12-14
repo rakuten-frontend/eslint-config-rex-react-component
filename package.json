@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rex-react-component",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Common eslint config for ReX React Component",
   "main": "index.js",
   "scripts": {
