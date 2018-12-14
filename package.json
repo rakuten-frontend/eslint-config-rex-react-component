@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-rex-react-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common eslint config for ReX React Component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+ssh://git@github.com/rakuten-frontend/eslint-config-rex-react-component.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "ReX React UI Components Library Authors (https://github.com/rakuten-frontend/eslint-config-rex-react-component/graphs/contributors)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rakuten-frontend/eslint-config-rex-react-component/issues"
