@@ -1,5 +1,6 @@
 module.exports = {
   extends: ['airbnb', 'plugin:jest/recommended'],
+  plugins: ['react-hooks'],
   parser: 'babel-eslint',
   rules: {
     'jsx-a11y/label-has-for': [0],
@@ -13,5 +14,7 @@ module.exports = {
         depth: 25,
       },
     ],
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'warn',
   },
 };
