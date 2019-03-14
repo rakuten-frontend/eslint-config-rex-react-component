@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/rakuten-frontend/eslint-config-rex-react-component.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "react",
+    "rex-react-component"
+  ],
   "author": "ReX React UI Components Library Authors (https://github.com/rakuten-frontend/eslint-config-rex-react-component/graphs/contributors)",
   "license": "MIT",
   "bugs": {
